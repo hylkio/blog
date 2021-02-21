@@ -1,9 +1,7 @@
-## [My personal website](https://mirosopa.github.io)
+## [My personal blog](https://sopanem.github.io/blog)
 
-- This is my personal website
-- Content of the site:
-  - Blog
-  - About me section where I tell something about myself and my interests.
+- This is my personal blog
+
 
 _**Feel free to contact me using links below**_
 
