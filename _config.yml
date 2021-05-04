@@ -14,6 +14,7 @@ plugins: [jekyll-paginate]
 # Details for the RSS feed generator
 url: ""
 author: "Miro"
+author_description: "I am Miro and I am second year high school student pursuing maths and technolgoies."
 
 # Disqus config
 disqus-shortname: ""
