@@ -1,0 +1,19 @@
+name: Miro' personal blog
+description: The place where I share my thoughts
+meta_description: "My personal blog where I share my thoughts"
+
+markdown: kramdown
+highlighter: rouge
+logo: false
+paginate: 15
+baseurl: /blog
+domain_name: "http://sopanem.github.io/blog"
+# google_analytics: "UA-XXXXXXXX-X"
+plugins: [jekyll-paginate]
+
+# Details for the RSS feed generator
+url: ""
+author: "Miro"
+
+# Disqus config
+disqus-shortname: ""
