@@ -1,10 +1,7 @@
-_site
+node_modules/
+public
+.gatsby-context.js
 .DS_Store
-.jekyll
-.jekyll-metadata
-.bundle
-.sass-cache
-Gemfile
-Gemfile.lock
-node_modules
-package.json
+.intermediate-representation/
+.cache/
+yarn.lock
