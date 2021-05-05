@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How learning to code have changed my life positively"
-date: 2021-05-00 10:18:00
+date: 2021-05-05 10:18:00
 categories: coding
 ---
 
