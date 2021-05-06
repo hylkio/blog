@@ -2,7 +2,7 @@
 layout: post
 title: "My all time favorite tools for increasing productivity"
 date: 2021-05-06 10:18:00
-categories: tools
+categories: tools apps
 ---
 
 It is the third post and third day of this 30-day challenge I am completing. Today I want to share some stuff I am passionate about and that is productivity tools.
