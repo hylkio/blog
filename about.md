@@ -1,8 +1,17 @@
 ---
 layout: page
-title: About me
+title: About
 ---
 
-I am Miro Sopanen and I am writing on this blog to become more better on writing in general.
+<p class="message">
+  Hey there! I am Miro and this is my personal blog where I share my thoughts on different things.
+</p>
 
-I am interested in programming, tech and entrepreneurship. I guess that the most of my posts content relates somehow into these topics.
+The content of this blog is mainly related into my large amount of interests such as programming, productivity, data and much more. If you find this interesting, keep reading...
+
+### Follow me on socials
+
+- [Twitter](https://twitter.com/sopanenm>)
+- [Instagram](https://instagram.com/sopanem)
+
+Thanks for reading!

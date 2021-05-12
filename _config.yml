@@ -1,20 +1,48 @@
-name: Miro' personal blog
-description: The place where I share my thoughts
-meta_description: "My personal blog where I share my thoughts"
+# Setup
+title: Dark Poole
+url: https://getpoole.com
+paginate: 1
+baseurl: ""
+permalink: pretty
 
-markdown: kramdown
-highlighter: rouge
-logo: false
-paginate: 15
-baseurl: /blog
-domain_name: "http://sopanem.github.io/blog"
-# google_analytics: "UA-XXXXXXXX-X"
-plugins: [jekyll-paginate]
+# Gems
+plugins:
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-seo-tag
 
-# Details for the RSS feed generator
-url: ""
-author: "Miro"
-author_description: "I am Miro and I am second year high school student pursuing maths and technolgoies."
+# Optimize Jekyll
+exclude:
+  - .editorconfig
+  - .git
+  - .jekyll-cache
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.md
+  - README.md
 
-# Disqus config
-disqus-shortname: ""
+sass:
+  sass_dir: _sass
+  style: :compressed
+
+# Options
+
+# Replace this value and uncomment to enable Google Analytics tracking
+# ga_analytics: UA-000000-0
+
+# Specify the author for blog posts
+author:
+  name: Mark Otto
+  url: https://twitter.com/mdo
+  email: markdotto@gmail.com
+
+# Custom vars
+version: 3.0.0
+
+# Navbar page list
+nav:
+  - title: Blog
+    url: /archive
+
+  - title: About
+    url: /about

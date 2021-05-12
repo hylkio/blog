@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "My toughts on toxic productivity"
-date: 2021-05-07 10:18:00
-categories: productivity
 ---
 
 When this pandemic started and we were forced to stay home in lock-down.We were affected to stay productive during working remotely.

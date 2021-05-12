@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "My 2021 list of goals"
-date: 2021-05-10 10:18:00
-categories: goals
 ---
 
 We have passed about 1/3 of the year 2021. I guess that I am a bit late with this bucket-list thing but there we go. I have seen many peoples making these bucket-list posts on their blog website and it made me want to create this, so here it comes.

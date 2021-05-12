@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "How learning to code have changed my life positively"
-date: 2021-05-05 10:18:00
-categories: coding
 ---
 
 In the beginning, I would say that learning to code and learning other technical skills has no downsides or negative impacts on my life. All impact it has made for me is positive.
