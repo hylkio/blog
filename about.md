@@ -3,15 +3,10 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! I am Miro and this is my personal blog where I share my thoughts on different things.
-</p>
+Hi! I am Miro and I write here some of my thoughts on the following topics:
 
-The content of this blog is mainly related into my large amount of interests such as programming, productivity, data and much more. If you find this interesting, keep reading...
+- Programming
+- Tech
+- Productivity
 
-### Follow me on socials
-
-- [Twitter](https://twitter.com/sopanenm>)
-- [Instagram](https://instagram.com/sopanem)
-
-Thanks for reading!
+If you are intrested, you can subscribe my rss feed!

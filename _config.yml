@@ -1,15 +1,20 @@
 # Setup
-title: Dark Poole
-url: https://getpoole.com
+title: Miro's blog
+tagline: A blog on coding, tech and productivity
+url: https://sopanem.github.io/blog
 paginate: 1
 baseurl: ""
-permalink: pretty
+permalink: :title/
+
+kramdown:
+  footnote_backlink: "&#10548;"
 
 # Gems
 plugins:
   - jekyll-gist
   - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-target-blank
 
 # Optimize Jekyll
 exclude:
@@ -32,17 +37,11 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: Miro
+  url: https://twitter.com/sopanenm
+  email: mirosopa@gmail.com
 
 # Custom vars
-version: 3.0.0
-
-# Navbar page list
-nav:
-  - title: Blog
-    url: /archive
-
-  - title: About
-    url: /about
+version: 1.3.0
+github:
+  repo: https://github.com/sopanem/blog
